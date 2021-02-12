@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/820a792e-3fa7-4ff5-8d27-24d33fb18d29/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tinaservicebackendapi",
+    "appService.deploySubpath": "."
+}
